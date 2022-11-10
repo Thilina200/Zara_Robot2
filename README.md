@@ -1,7 +1,7 @@
-# 🌷Miss Raya🌷
+# Zara Robot ✨
 A Simple Group Manager Bot using Pyrogram, Telethon. Specially This is working with firebase database.
 <p align="middle">
-  <img src="https://telegra.ph/file/c34ea5555a31864d1dd8d.jpg" width='400"'>
+  <img src="https://graph.org/file/3b01319fd2a830edddea3.jpg" width='400"'>
 </p>
 <p align="center">
   <a href="https://www.python.org">
@@ -24,7 +24,7 @@ A Simple Group Manager Bot using Pyrogram, Telethon. Specially This is working w
 ## Deploy
 
 ### Easy Method
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Y1pXr6?referralCode=ImTharuk) [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/MissRaya)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Y1pXr6?referralCode=ImTharuk) [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/Zara_Robot)
 
 ### Hard Method
 ```sh
@@ -64,9 +64,9 @@ $ python3 -m MissRaya
 </p>
 
 
-##### Should any be missing kindly let us know at [Developers](https://t.me/SLBotOfficial) or simply submit a pull request on the readme.
+##### Should any be missing kindly let us know at [Developers](https://t.me/HiTechRockets) or simply submit a pull request on the readme.
 
 # Contributors
-![GitHub Contributors Image](https://contrib.rocks/image?repo=TharukRenuja/MissRaya)
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Thilinaweerasekara2003/Zara_Robot)
 
  [![SLBots](https://img.shields.io/badge/SLBotOfficial-Channel-orange?style=style=flat&logo=telegram)](https://telegram.dog/SLBotOfficial)   [![SLBots](https://img.shields.io/badge/SLBotOfficial-Support-red?style=flat&logo=telegram)](https://telegram.dog/trtechguide)  [![SLBots](https://img.shields.io/badge/SLBots-Website-red?style=flat&logo=CodersRank)](https://www.slbots.org)   [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TharukRenuja/MissRaya/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TharukRenuja/MissRaya)
