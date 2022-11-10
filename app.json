@@ -1,6 +1,6 @@
 {
-    "name": "MissRaya",
-    "logo": "https://telegra.ph/file/c34ea5555a31864d1dd8d.jpg",
+    "name": "Zara Robot",
+    "logo": "https://graph.org/file/3b01319fd2a830edddea3.jpg",
     "description": "A Simple Group Manager Bot using Pyrogram, Telethon. Specially This is working with firebase database.",
     "keywords": [
         "telegram",
@@ -9,8 +9,8 @@
         "missraya",
         "bot"
     ],
-    "website": "https://github.com/TharukRenuja/MissRaya",
-    "repository": "https://github.com/TharukRenuja/MissRaya",
+    "website": "https://github.com/Thilinaweerasekara2003/Zara_Robot",
+    "repository": "https://github.com/Thilinaweerasekara2003/Zara_Robot",
     "env": {
         "BOT_TOKEN": {"description": "Your Bot Token", "required": true},
         "API_ID": {"description": "Your APP ID (You can get this value from my.telegram.org)", "required": true},
